@@ -1,4 +1,5 @@
 E-commerce SQL Data Analysis Project
+
 Overview
 This project analyzes e-commerce sales data using SQL queries to gain insights into customer behavior, product performance, and order trends. The dataset includes information about customers, orders, order details, and products.
 
